@@ -13,7 +13,6 @@ const Header = () => {
         <img className='w-18 h-12 sm:hidden  rounded-full' src='https://pbs.twimg.com/profile_images/1622640106938171392/BHpsCosP_400x400.jpg' />
         <BsTwitter size={25} className='ml-20  sm:hidden text-blue-500' />
       </div>
-      <TwitterTabs />
 
     </div>
   )
